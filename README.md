@@ -1,8 +1,16 @@
 # Olá, eu sou Cássio Lima 👋
 
-Sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e aprendizado contínuo.
+## 🏫 Faculdades
 
----
+- 🎓 **Engenharia de Software**  
+  Universidade Federal do Baixo Amazonas (UFBRA)
+
+- 💻 **Análise e Desenvolvimento de Sistemas**  
+  Centro Universitário UniBF
+
+- 💻 **Tecnologia da Informação**  
+  Centro Universitário Unifemm
+
 
 ## 🎓 Cursos e Formação
 
@@ -17,24 +25,38 @@ Sou estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas
 
 ---
 
+## 🏫 Faculdades
+
+- 🎓 **Engenharia de Software**  
+  Universidade Federal do Baixo Amazonas (UFBRA)
+
+- 💻 **Análise e Desenvolvimento de Sistemas**  
+  Centro Universitário UniBF
+
+---
+
 ## 📫 Contato
 
 - 📧 engcassiolima@gmail.com  
-- 📞 (61) 9 9840-5459  
 - 📍 Brasília - DF, Brasil  
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d8e14484-f919-49fa-b05a-0ac9c860c762" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/9399cd6d-2069-42b3-a975-7265fb44bbd7" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/935d3ff8-3c29-4b9b-94d3-8cb1a1e81a65" /> <br>
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8fc20356-08b9-4947-80d9-b3770d2885e5" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/eff9f020-b4e3-4601-a5fc-a21e2353036f" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/66c9a3b2-706e-477c-9dc0-3c2228ba8926" /> <br>
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e6840f75-f127-494a-9aad-ce0c968a368e" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/bdeaa990-57d9-49ef-a771-6adb508f97d0" />
+
 
 ---
 
