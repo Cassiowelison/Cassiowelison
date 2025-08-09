@@ -13,32 +13,38 @@
 
 
 ## 🎓 Cursos e Formação
+### Cursos e Formação
 
-- **Figma Design de Interfaces** – Matheus Fraga (Udemy)  
-- **JavaScript e TypeScript** – Luiz Otávio Miranda (Udemy)  
-- **Python 3 com Projetos Reais** – Luiz Otávio Miranda (Udemy)  
-- **Formação Completa em Inteligência Artificial** – Fernando Amaral (Udemy)  
-- **Power BI Completo** – João Paulo (Udemy)  
-- **Java COMPLETO com Projetos** – Leonardo Moura (Udemy)  
-- **HTML, CSS e JavaScript** – Gustavo Guanabara (Curso em Vídeo)  
-- **O Novo Programador (ONP) Full Stack** – Vitor (acesso vitalício)
+**📚 Udemy**  
+- Figma Design de Interfaces – Matheus Fraga  
+- JavaScript e TypeScript – Luiz Otávio Miranda  
+- Python 3 – Luiz Otávio Miranda  
+- Formação em Inteligência Artificial – Fernando Amaral  
+- Power BI – João Paulo  
+- Java – Leonardo Moura  
 
----
+**🎓 Curso em Vídeo**  
+- **HTML, CSS e JavaScript** – **Gustavo Guanabara**
 
-## 🏫 Faculdades
+**🚀 O Novo Programador (ONP)**  
+- HTML & CSS  
+- JavaScript  
+- TypeScript  
+- React JS  
+- Banco de Dados  
+- PHP  
+- Node.js  
+- React Native  
 
-- 🎓 **Engenharia de Software**  
-  Universidade Federal do Baixo Amazonas (UFBRA)
-
-- 💻 **Análise e Desenvolvimento de Sistemas**  
-  Centro Universitário UniBF
 
 ---
 
 ## 📫 Contato
 
 - 📧 engcassiolima@gmail.com  
-- 📍 Brasília - DF, Brasil  
+- 📍 Brasília - DF, Brasil
+- 🔭 [LinkedIn - Cássio W. S. Lima](https://www.linkedin.com/in/c%C3%A1ssio-w-s-lima-27390b158/)
+
 
 ---
 
