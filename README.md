@@ -3,10 +3,10 @@
 ## 🏫 Faculdades
 
 - 🎓 **Engenharia de Software**  
-  Universidade Federal do Baixo Amazonas (UFBRA)
+  Universidade UFBRA - Jan/2028
 
 - 💻 **Análise e Desenvolvimento de Sistemas** 
-  Centro Universitário Unifemm
+  Centro Universitário Unifemm - julho-2026
 
 
 ## 🎓 Cursos e Formação
