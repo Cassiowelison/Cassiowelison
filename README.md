@@ -5,10 +5,7 @@
 - 🎓 **Engenharia de Software**  
   Universidade Federal do Baixo Amazonas (UFBRA)
 
-- 💻 **Análise e Desenvolvimento de Sistemas**  
-  Centro Universitário UniBF
-
-- 💻 **Tecnologia da Informação**  
+- 💻 **Análise e Desenvolvimento de Sistemas** 
   Centro Universitário Unifemm
 
 
