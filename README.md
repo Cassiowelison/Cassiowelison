@@ -1,16 +1,20 @@
 ## ✋ Olá! Sou Cássio Lima
 
 Desenvolvedor em formação, estudando diariamente para dominar **JavaScript, React, Node.js e Arquitetura de Software**.
-Cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**, com foco total em lógica de programação e construção de projetos reais.
 
-## 🏫 Faculdades
+Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**, com foco total em lógica de programação e construção de projetos reais.
 
-- 🎓 **Engenharia de Software**  
-  Universidade UFBRA - Jan/2028
+---
 
-- 💻 **Análise e Desenvolvimento de Sistemas** 
-  Centro Universitário Unifemm - julho-2026
+## 🎓 Faculdades
 
+- **Engenharia de Software**  
+  Universidade UFBRA – Jan/2028
+
+- **Análise e Desenvolvimento de Sistemas**  
+  Centro Universitário Unifemm – Julho/2026
+
+---
 
 ## 📘 Cursos
 
@@ -21,7 +25,7 @@ Cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise
 - Power BI – João Paulo  
 
 ### Curso em Vídeo
-- HTML, CSS e JavaScript – Gustavo Guanabara
+- HTML, CSS e JavaScript – Gustavo Guanabara  
 
 ### O Novo Programador (ONP)
 - HTML & CSS  
@@ -31,15 +35,7 @@ Cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise
 - Banco de Dados  
 - PHP  
 - NodeJS  
-- React Native
-
----
-
-## 📬 Contato
-- 📧 Email: cassiowelison@gmail.com  
-- 🌍 Brasília - DF, Brasil
-- 💼 [LinkedIn - Cássio W. S. Lima](https://www.linkedin.com/in/c%C3%A1ssio-w-s-lima-27390b158/)
-
+- React Native  
 
 ---
 
@@ -57,23 +53,27 @@ Cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
+---
 
-
+## 📬 Contato
+- 📧 Email: cassiowelison@gmail.com  
+- 🌍 Brasília – DF, Brasil  
+- 💼 LinkedIn: [Cássio W. S. Lima](https://www.linkedin.com/in/cássio-welison-dos-santos-lima-27390b158)
 
 ---
 
 ## 🎯 Foco Atual
 Atualmente estudando **Desenvolvimento Full Stack**, com ênfase em:
+
 - JavaScript avançado  
 - React (Frontend)  
 - Node.js (Backend)  
 - Estruturas de dados  
-- Fundamentos de arquitetura de computadores
+- Fundamentos de arquitetura de computadores  
 
 ---
+
 📌 Sempre atualizando conhecimentos e evoluindo nos estudos.
-
-
 
 <!--
 **Cassiowelison/Cassiowelison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
