@@ -14,11 +14,9 @@
 
 **📚 Udemy**  
 - Figma Design de Interfaces – Matheus Fraga  
-- JavaScript e TypeScript – Luiz Otávio Miranda  
-- Python 3 – Luiz Otávio Miranda  
+- JavaScript e TypeScript – Luiz Otávio Miranda   
 - Formação em Inteligência Artificial – Fernando Amaral  
-- Power BI – João Paulo  
-- Java – Leonardo Moura  
+- Power BI – João Paulo    
 
 **🎓 Curso em Vídeo**  
 - **HTML, CSS e JavaScript** – **Gustavo Guanabara**
@@ -38,7 +36,7 @@
 
 ## 📫 Contato
 
-- 📧 engcassiolima@gmail.com  
+- 📧 cassiowelison@gmail.com  
 - 📍 Brasília - DF, Brasil
 - 🔭 [LinkedIn - Cássio W. S. Lima](https://www.linkedin.com/in/c%C3%A1ssio-w-s-lima-27390b158/)
 
