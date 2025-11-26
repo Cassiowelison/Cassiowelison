@@ -1,8 +1,7 @@
-# # 👋 Olá! Sou Cássio Lima
+## ✋ Olá! Sou Cássio Lima
 
 Desenvolvedor em formação, estudando diariamente para dominar **JavaScript, React, Node.js e Arquitetura de Software**.
-Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**, com forte dedicação em lógica de programação e construção de projetos reais.
-�
+Cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**, com foco total em lógica de programação e construção de projetos reais.
 
 ## 🏫 Faculdades
 
@@ -13,27 +12,26 @@ Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e
   Centro Universitário Unifemm - julho-2026
 
 
-## 🎓 Cursos:
+## 📘 Cursos
 
-**📚 Udemy**  
+### Udemy
 - Figma Design de Interfaces – Matheus Fraga  
-- JavaScript e TypeScript – Luiz Otávio Miranda   
+- JavaScript e TypeScript – Luiz Otávio Miranda  
 - Formação em Inteligência Artificial – Fernando Amaral  
-- Power BI – João Paulo    
+- Power BI – João Paulo  
 
-**🎓 Curso em Vídeo**  
-- **HTML, CSS e JavaScript** – **Gustavo Guanabara**
+### Curso em Vídeo
+- HTML, CSS e JavaScript – Gustavo Guanabara
 
-**🚀 O Novo Programador (ONP)**  
+### O Novo Programador (ONP)
 - HTML & CSS  
 - JavaScript  
 - TypeScript  
 - React JS  
 - Banco de Dados  
 - PHP  
-- Node.js  
-- React Native  
-
+- NodeJS  
+- React Native
 
 ---
 
@@ -45,11 +43,11 @@ Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -61,15 +59,20 @@ Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e
 
 
 
----
-
-## 🚀 Foco Atual
-
-Atualmente estudando Desenvolvimento Full Stack, com ênfase em JavaScript, React, Node.js e fundamentos sólidos de computação.
 
 ---
 
-Obrigado por visitar meu perfil! 😊
+## 🎯 Foco Atual
+Atualmente estudando **Desenvolvimento Full Stack**, com ênfase em:
+- JavaScript avançado  
+- React (Frontend)  
+- Node.js (Backend)  
+- Estruturas de dados  
+- Fundamentos de arquitetura de computadores
+
+---
+📌 Sempre atualizando conhecimentos e evoluindo nos estudos.
+
 
 
 <!--
