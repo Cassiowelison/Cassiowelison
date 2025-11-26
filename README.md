@@ -1,4 +1,8 @@
-# Olá, eu sou Cássio Lima 👋
+# # 👋 Olá! Sou Cássio Lima
+
+Desenvolvedor em formação, estudando diariamente para dominar **JavaScript, React, Node.js e Arquitetura de Software**.
+Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas**, com forte dedicação em lógica de programação e construção de projetos reais.
+�
 
 ## 🏫 Faculdades
 
@@ -9,8 +13,7 @@
   Centro Universitário Unifemm - julho-2026
 
 
-## 🎓 Cursos e Formação
-### Cursos e Formação
+## 🎓 Cursos:
 
 **📚 Udemy**  
 - Figma Design de Interfaces – Matheus Fraga  
@@ -34,36 +37,35 @@
 
 ---
 
-## 📫 Contato
-
-- 📧 cassiowelison@gmail.com  
-- 📍 Brasília - DF, Brasil
-- 🔭 [LinkedIn - Cássio W. S. Lima](https://www.linkedin.com/in/c%C3%A1ssio-w-s-lima-27390b158/)
-
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-
-
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d8e14484-f919-49fa-b05a-0ac9c860c762" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/9399cd6d-2069-42b3-a975-7265fb44bbd7" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/935d3ff8-3c29-4b9b-94d3-8cb1a1e81a65" /> <br>
-
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/8fc20356-08b9-4947-80d9-b3770d2885e5" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/eff9f020-b4e3-4601-a5fc-a21e2353036f" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/66c9a3b2-706e-477c-9dc0-3c2228ba8926" /> <br>
-
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/e6840f75-f127-494a-9aad-ce0c968a368e" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/bdeaa990-57d9-49ef-a771-6adb508f97d0" />
+## 📬 Contato
+- 📧 Email: cassiowelison@gmail.com  
+- 🌍 Brasília - DF, Brasil
+- 💼 [LinkedIn - Cássio W. S. Lima](https://www.linkedin.com/in/c%C3%A1ssio-w-s-lima-27390b158/)
 
 
 ---
 
-## 🚀 Em busca de estágio
+### 🧰 Tecnologias e Ferramentas
 
-Atualmente estou em busca de oportunidades para estágio na área de desenvolvimento e tecnologia, com foco em aprendizado e crescimento profissional.
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
+
+
+
+---
+
+## 🚀 Foco Atual
+
+Atualmente estudando Desenvolvimento Full Stack, com ênfase em JavaScript, React, Node.js e fundamentos sólidos de computação.
 
 ---
 
