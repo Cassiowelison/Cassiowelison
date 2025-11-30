@@ -37,7 +37,7 @@ Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e
 - NodeJS  
 - React Native  
 
----
+--
 
 ## 🛠️ Tecnologias & Ferramentas
 
