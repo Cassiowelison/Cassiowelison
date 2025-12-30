@@ -12,7 +12,7 @@ Atualmente cursando **Engenharia de Software**, **Engenharia da Computação** e
   Universidade UFBRA – Jan/2028
 
 - **Análise e Desenvolvimento de Sistemas**  
-  Centro Universitário Unifemm – Julho/2026
+  Centro Universitário Unifemm – Julho/2027
 
 ---
 
